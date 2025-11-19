@@ -4,3 +4,8 @@
     border: 1px;
     background-color: bisque;
 }
+
+#thtitle {
+    height: 30px;
+    font-weight: bold;
+}
